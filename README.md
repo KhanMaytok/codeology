@@ -23,3 +23,4 @@ We're excited to hear your ideas for improving this project! Feel free to submit
 
 ### Acknowledgements
 This project was made possible by [Braintree](https://www.braintreepayments.com/).
+
