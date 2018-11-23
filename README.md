@@ -1,3 +1,5 @@
+[alt text](https://david-dm.org/khanmaytok/codeology.svg "Logo Title Text 1")
+
 ## Codeology
 Codeology brings to life the art and science of code. An algorithm analyzes GitHub projects and creates unique organic forms based on the codebase size and language. As no two pieces of code are alike, no two Codeology forms are alike.
 
